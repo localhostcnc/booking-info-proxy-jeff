@@ -1,0 +1,9 @@
+#calendar {
+  margin-left: 70px;
+  width: 110%;
+  transform: scale(0.91);
+}
+
+#listingInfo {
+  margin-left: -60px;
+}
